@@ -1,0 +1,85 @@
+{
+    "Name": "Nod",
+    "Keyframes": [
+      {
+        "HasJoints": "True",
+        "Expression": "Sleepy",
+        "WaitTime": 500,
+        "JointMoveTime": 5,
+        "JointAngles": [
+          {
+            "Joint": "HeadNod",
+            "Angle": 120
+          },
+          {
+            "Joint": "TorsoBow",
+            "Angle": 115
+          }
+        ]
+      },
+      {
+        "HasJoints": "True",
+        "Expression": "Sleepy",
+        "WaitTime": 500,
+        "JointMoveTime": 5,
+        "JointAngles": [
+          {
+            "Joint": "TorsoBow",
+            "Angle": 115
+          },
+          {
+            "Joint": "HeadNod",
+            "Angle": 130
+          }
+        ]
+      },
+      {
+        "HasJoints": "True",
+        "Expression": "Sleepy",
+        "WaitTime": 500,
+        "JointMoveTime": 5,
+        "JointAngles": [
+          {
+            "Joint": "TorsoBow",
+            "Angle": 120
+          },
+          {
+            "Joint": "HeadNod",
+            "Angle": 125
+          }
+        ]
+      },
+      {
+        "HasJoints": "True",
+        "Expression": "Sleepy",
+        "WaitTime": 500,
+        "JointMoveTime": 5,
+        "JointAngles": [
+          {
+            "Joint": "TorsoBow",
+            "Angle": 120
+          },
+          {
+            "Joint": "HeadNod",
+            "Angle": 130
+          }
+        ]
+      },
+      {
+        "HasJoints": "True",
+        "Expression": "Sleepy",
+        "WaitTime": 500,
+        "JointMoveTime": 5,
+        "JointAngles": [
+          {
+            "Joint": "TorsoBow",
+            "Angle": 125
+          },
+          {
+            "Joint": "HeadNod",
+            "Angle": 125
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,22 @@
+{
+    "Emotes": {
+      "Off": 0,
+      "Neutral": 1,
+      "Happy": 2,
+      "Sad": 3,
+      "Angry": 4,
+      "Confused": 5,
+      "Closed": 6,
+      "Sleepy": 7,
+      "Dead": 8,
+      "slightRight": 9,
+      "Right": 10,
+      "slightLeft": 11,
+      "Left": 12,
+      "slightUp": 13,
+      "Up": 14,
+      "slightDown": 15,
+      "Down": 16
+    }
+  }
+  

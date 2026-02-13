@@ -1,0 +1,110 @@
+{
+    "Name": "Thinking",
+    "Keyframes": [
+      {
+        "HasEmote": "True",
+        "HasAudio": "False",
+        "AudioClip": "intro",
+        "HasJoints": "True",
+        "Expression": "Closed",
+        "WaitTime": 1000,
+        "JointMoveTime": 1,
+        "JointAngles": [
+                {
+                    "Joint": "RightChest",
+                    "Angle": 135
+                },
+                {
+                    "Joint": "RightBicep",
+                    "Angle": 115
+                },
+                {
+                    "Joint": "RightElbow",
+                    "Angle": 90
+                },
+                {
+                    "Joint": "RightShoulder",
+                    "Angle": 85
+                },
+                {
+                    "Joint": "HeadTurn",
+                    "Angle": 120
+                },
+                {
+                    "Joint": "HeadNod",
+                    "Angle": 125
+                },
+                {
+                    "Joint": "LeftChest",
+                    "Angle": 115
+                },
+                {
+                    "Joint": "LeftBicep",
+                    "Angle": 115
+                },
+                {
+                    "Joint": "LeftElbow",
+                    "Angle": 105
+                },
+                {
+                    "Joint": "LeftShoulder",
+                    "Angle": 180
+                }
+            ]
+      },
+      {
+        "HasEmote": "True",
+        "HasAudio": "False",
+        "AudioClip": "intro",
+        "HasJoints": "True",
+        "Expression": "Closed",
+        "WaitTime": 800,
+        "JointMoveTime": 1,
+        "JointAngles": [
+          {
+            "Joint": "RightChest",
+            "Angle": 175
+          },
+          {
+            "Joint": "LeftChest",
+            "Angle": 100
+          },
+          {
+            "Joint": "LeftBicep",
+            "Angle": 165
+          },
+          {
+            "Joint": "RightBicep",
+            "Angle": 60
+          },
+          {
+            "Joint": "LeftElbow",
+            "Angle": 110
+          },
+          {
+            "Joint": "RightElbow",
+            "Angle": 150
+          }
+        ]
+      },
+      {
+        "HasEmote": "True",
+        "HasAudio": "False",
+        "AudioClip": "intro",
+        "HasJoints": "True",
+        "Expression": "Closed",
+        "WaitTime": 500,
+        "JointMoveTime": 1,
+        "JointAngles": [
+          {
+            "Joint": "TorsoBow",
+            "Angle": 115
+          },
+          {
+            "Joint": "HeadNod",
+            "Angle": 135
+          }
+        ]
+      }
+    ]
+  }

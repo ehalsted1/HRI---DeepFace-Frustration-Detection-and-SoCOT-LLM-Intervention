@@ -1,0 +1,80 @@
+{
+    "Name": "empathetic",
+    "Keyframes": [
+        {
+            "HasEmote": "True",
+            "HasJoints": "True",
+            "Expression": "Sad",
+            "WaitTime": 1500,
+            "JointMoveTime": 10,
+            "JointAngles": [
+              {
+                "Joint": "TorsoBow",
+                "Angle": 115
+              },
+              {
+                "Joint": "HeadTilt",
+                "Angle": 130
+              },
+              {
+                "Joint": "HeadNod",
+                "Angle": 120
+              },
+              {
+                "Joint": "RightChest",
+                "Angle": 180
+              },
+              {
+                "Joint": "RightElbow",
+                "Angle": 55
+              }
+            ]
+            },
+            {
+                "HasEmote": "True",
+                "HasJoints": "True",
+                "Expression": "Sad",
+                "WaitTime": 1500,
+                "JointMoveTime": 10,
+                "JointAngles": [
+                  {
+                    "Joint": "TorsoBow",
+                    "Angle": 120
+                  },
+                  {
+                    "Joint": "HeadTilt",
+                    "Angle": 125
+                  },
+                  {
+                    "Joint": "RightChest",
+                    "Angle": 135
+                  },
+                  {
+                    "Joint": "RightElbow",
+                    "Angle": 90
+                  },
+                  {
+                    "Joint": "HeadNod",
+                    "Angle": 120
+                  }
+                ]
+                },
+                {
+                    "HasEmote": "True",
+                    "HasJoints": "True",
+                    "Expression": "Neutral",
+                    "WaitTime": 1500,
+                    "JointMoveTime": 10,
+                    "JointAngles": [
+                      {
+                        "Joint": "TorsoBow",
+                        "Angle": 125
+                      },
+                      {
+                        "Joint": "HeadNod",
+                        "Angle": 125
+                      }
+                    ]
+                    }
+        ]
+    }

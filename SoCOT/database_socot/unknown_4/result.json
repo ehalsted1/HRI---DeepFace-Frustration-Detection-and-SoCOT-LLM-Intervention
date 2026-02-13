@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Using step by step reasoning: Based on the information given to you (voice pitch, emotions detected, and speech), \n                                             what is the check in best suited for this interaction: {neutral, positive, negative}. \n                                              Then based on this answer, provide a one sentence check in question.\n                                              Please answer in the format: {Check in Type}: {Check in question}"
+        }
+      ]
+    }
+  ]
+}

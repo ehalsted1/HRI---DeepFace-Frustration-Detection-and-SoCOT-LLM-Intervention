@@ -1,0 +1,53 @@
+{
+    "Name": "ArmCircles",
+    "Keyframes": [
+          {
+            "HasJoints": true,
+            "Expression": "Dead",
+            "WaitTime": 1500,
+            "JointMoveTime": 10,
+            "JointAngles": [
+              {
+                "Joint": "TorsoBow",
+                "Angle": 130
+              },
+              {
+                "Joint": "TorsoTilt",
+                "Angle": 115
+              },
+              {
+                "Joint": "RightChest",
+                "Angle": 210
+              },
+              {
+                "Joint": "LeftChest",
+                "Angle": 40
+              },
+              {
+                "Joint": "RightShoulder",
+                "Angle": 170
+              },
+              {
+                "Joint": "LeftShoulder",
+                "Angle": 100
+              },
+              {
+                "Joint": "RightElbow",
+                "Angle": 20
+              },
+              {
+                "Joint": "LeftElbow",
+                "Angle": 160
+              },
+              {
+                "Joint": "HeadTilt",
+                "Angle": 105
+              },
+              {
+                "Joint": "HeadNod",
+                "Angle": 145
+              }
+            ]
+          }
+        ]
+    }

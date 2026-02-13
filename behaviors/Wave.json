@@ -1,0 +1,70 @@
+{
+    "Name": "Wave",
+    "Keyframes": [
+      {
+        "HasJoints": "True",
+        "Expression": "Happy",
+        "WaitTime": 1500,
+        "JointMoveTime": 10,
+        "JointAngles": [
+          {
+            "Joint": "LeftShoulder",
+            "Angle": 90
+          },
+          {
+            "Joint": "LeftBicep",
+            "Angle": 60
+          },
+          {
+            "Joint": "LeftElbow",
+            "Angle": 50
+          }
+        ]
+      },
+      {
+        "HasJoints": "True",
+        "WaitTime": 1500,
+        "JointMoveTime": 10,
+        "JointAngles": [
+          {
+            "Joint": "LeftElbow",
+            "Angle": 120
+          }
+        ]
+      },
+      {
+        "HasJoints": "True",
+        "WaitTime": 1500,
+        "JointMoveTime": 10,
+        "JointAngles": [
+          {
+            "Joint": "LeftElbow",
+            "Angle": 50
+          }
+        ]
+      },
+      {
+        "HasJoints": "True",
+        "WaitTime": 1500,
+        "JointMoveTime": 10,
+        "JointAngles": [
+          {
+            "Joint": "LeftElbow",
+            "Angle": 120
+          }
+        ]
+      },
+      {
+        "HasJoints": "True",
+        "WaitTime": 1500,
+        "JointMoveTime": 10,
+        "JointAngles": [
+          {
+            "Joint": "LeftElbow",
+            "Angle": 50
+          }
+        ]
+      }
+    ]
+  }
+  

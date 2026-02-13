@@ -1,0 +1,42 @@
+
+{
+"Name": "PositiveQuestion",
+"Keyframes": [
+  {
+    "HasJoints": "True",
+    "Expression": "slightRight",
+    "WaitTime": 1500,
+    "JointMoveTime": 11,
+    "JointAngles": [
+      {
+        "Joint": "HeadTilt",
+        "Angle": 137
+      }
+    ]
+  },
+  {
+    "HasJoints": "True",
+    "Expression": "Neutral",
+    "WaitTime": 1500,
+    "JointMoveTime": 7,
+    "JointAngles": [
+      {
+        "Joint": "HeadTilt",
+        "Angle": 125
+      }
+    ]
+  },
+  {
+    "HasJoints": "True",
+    "Expression": "Neutral",
+    "WaitTime": 1500,
+    "JointMoveTime": 10,
+    "JointAngles": [
+      {
+        "Joint": "HeadTilt",
+        "Angle": 125
+      }
+    ]
+  }
+]
+}

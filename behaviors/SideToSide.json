@@ -1,0 +1,68 @@
+{
+    "Name": "SideToSide",
+    "Keyframes": [
+        {
+            "HasJoints": "True",
+            "Expression": "Happy",
+            "WaitTime": 1500,
+            "JointMoveTime": 10,
+            "JointAngles": [
+              {
+                "Joint": "RightShoulder",
+                "Angle": 110
+              },
+              {
+                "Joint": "LeftShoulder",
+                "Angle": 150
+              },
+              {
+                "Joint": "TorsoBow",
+                "Angle": 125
+              },
+              {
+                "Joint": "TorsoTilt",
+                "Angle": 90
+              }
+            ],
+            "AudioClip": {
+                "ClipName": "",
+                "IsGroup": "False",
+                "Async": "True",
+                "Probability": 0
+            }
+          },
+          {
+            "HasJoints": "True",
+            "WaitTime": 1500,
+            "JointMoveTime": 10,
+            "JointAngles": [
+              {
+                "Joint": "TorsoTilt",
+                "Angle": 115
+              }
+            ]
+          },
+          {
+            "HasJoints": "True",
+            "WaitTime": 1500,
+            "JointMoveTime": 10,
+            "JointAngles": [
+              {
+                "Joint": "TorsoTilt",
+                "Angle": 140
+              }
+            ]
+          },
+          {
+            "HasJoints": "True",
+            "WaitTime": 1500,
+            "JointMoveTime": 10,
+            "JointAngles": [
+              {
+                "Joint": "TorsoTilt",
+                "Angle": 115
+              }
+            ]
+          }
+        ]
+    }

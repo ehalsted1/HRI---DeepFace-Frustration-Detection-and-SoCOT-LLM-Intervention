@@ -1,0 +1,72 @@
+{
+  "video": {
+    "path": "input.mp4",
+    "sample_fps": 5,
+    "aggregation": "per_second",
+    "ema_alpha": 0.5,
+    "detector": "MediaPipe FaceDetection",
+    "emotion_model": "DeepFace (emotion)"
+  },
+  "emotions": [
+    {
+      "time_sec": 0,
+      "dominant": "angry",
+      "confidence": 0.47314586280594506,
+      "probabilities": {
+        "angry": 0.47314586280594506,
+        "disgust": 1.554720237334318e-06,
+        "fear": 0.10852051385244206,
+        "happy": 0.216304565911551,
+        "sad": 0.19733406615907606,
+        "surprise": 0.00013764413042897572,
+        "neutral": 0.004555792420319471
+      },
+      "n_samples": 5
+    },
+    {
+      "time_sec": 1,
+      "dominant": "happy",
+      "confidence": 0.4563564976863831,
+      "probabilities": {
+        "angry": 0.23973839042360487,
+        "disgust": 7.036795598303629e-05,
+        "fear": 0.07137661978973715,
+        "happy": 0.4563564976863831,
+        "sad": 0.1874120164527731,
+        "surprise": 7.114619645079908e-05,
+        "neutral": 0.04497496149506789
+      },
+      "n_samples": 5
+    },
+    {
+      "time_sec": 2,
+      "dominant": "happy",
+      "confidence": 0.4634464968584062,
+      "probabilities": {
+        "angry": 0.12151558868658681,
+        "disgust": 3.8963353957954173e-05,
+        "fear": 0.07558597637533866,
+        "happy": 0.4634464968584062,
+        "sad": 0.223605847537659,
+        "surprise": 3.557941987753398e-05,
+        "neutral": 0.11577154776817378
+      },
+      "n_samples": 5
+    },
+    {
+      "time_sec": 3,
+      "dominant": "happy",
+      "confidence": 0.5578942113932835,
+      "probabilities": {
+        "angry": 0.06087219519057261,
+        "disgust": 2.0129373505413772e-05,
+        "fear": 0.03939865950551397,
+        "happy": 0.5578942113932835,
+        "sad": 0.1250609484651014,
+        "surprise": 1.8901048749427435e-05,
+        "neutral": 0.21673495502327358
+      },
+      "n_samples": 3
+    }
+  ]
+}
